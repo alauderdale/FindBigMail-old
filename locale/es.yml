@@ -55,9 +55,9 @@ es:
       La seguridad es importante para nosotros. Sólo vemos el tamaño de tus mails, no su contenido, y 
       <span>nunca</span> vemos tu clave.
     who_is_using: ¿Quién mas está usando Find Big Mail?
-    using_alt_1: Huffington Post uses FindBigMail.com to reclaim Gmail storage and stay within their quota.
-    using_alt_2: Gawker.com uses FindBigMail.com to find the emails using up their Gmail space.
-    using_alt_3: University of Notre Dame uses FindBigMail.com to avoid Gmail out of space issues.
+    using_alt_1: Huffington Post usa FindBigMail.com para recuperar espacio en Gmail y mantenerse dentro de su cuota.
+    using_alt_2: Gawker.com usa FindBigMail.com para encontrar los mensajes que usan su espacio.
+    using_alt_3: La Universidad de Notre Dame usa FindBigMail.com para evitar problemas de cuentas llenas.
     testimonial_1: Ahorramos $450 en tarifas de Google Apps usando @findbigmail.
     testimonial_2: |
       Un respaldo raro viniendo de mi, totalmente gratis y totalmente apreciado: FindBigMail.com me ayudó a reducir
@@ -177,13 +177,13 @@ es:
     remove_fbm_access_answer_5:
       We're trying hard to make this simple and secure. If you have more questions or 
       suggestions, please get in touch.
-    known_issues: Are there any known issues?
+    known_issues: Hay algunos problemas conocidos?
     known_issues_answer_2: |
-      Another very small group of users have restricted access to their All Mail folder (see %s). 
-      In most cases, this is because they disabled it to keep Apple Mail happy and this can be 
-      easily fixed as described in our FAQ: %s. For another even smaller group, their All Mail 
-      is available, but not readable. In that scenario, we scan and label all readable folders, 
-      which takes longer but achieves the same result.
+      Otro pequeño grupo de usuarios tiene acceso restringido a su carpeta All Mail (ver %s).
+      En la mayoría de los casos, esto es porque lo desabilitaron para hacer felíz a Apple Mail y puede ser
+      fácilmente coregido como se describe en nuestra FAQ: %s. Otro grupo aún mas pequeño, tiene su carpeta All Mail
+      disponible, pero no legible. En ese escenario, nosotros escaneamos y etiquetamos todas las carpetas legibles,
+      lo que lleva mas tiempo pero genera el mismo resultado.
     known_issues_answer_2_link_label_1: What is All Mail
     known_issues_answer_2_link_1: "http://mail.google.com/support/bin/answer.py?hl=en&answer=6581"
     known_issues_answer_2_link_label_2: Only my inbox was scanned, what about the other folders?
@@ -227,14 +227,13 @@ es:
                                 feature that lets you hide Labels from your IMAP client and you have configured your IMAP 
                                 settings to hide the All Mail folder. Searching for this in Google suggests that many Mac 
                                 Mail users do this to avoid duplicate messages showing up in Spotlight.
-    how_large_can_emails_be: How large can one email be?
-    how_large_can_emails_be_answer_1: "We see this question a lot on twitter: What is the largest email I can send with Gmail?"
+    how_large_can_emails_be: Que tan grande puede ser un email?
+    how_large_can_emails_be_answer_1: "Vemos mucho esta pregunta en twitter: Cuál es el mail mas grande que puedo enviar en Gmail?"
     how_large_can_emails_be_answer_2: |
-                                        The answer is 25MB. This is equal to about 5-10 mp3 songs or the same number of 
-                                        full resolution photos from a modern digital camera. For video, it's a few minutes 
-                                        at most (but video size varies a lot depending where it came from). Careful though, 
-                                        as %s, even if you can send 25MB, the person receiving your mail may not be able 
-                                        to receive emails that large!
+                                        La respuesta es 25MB. Es aproximadamente 5-10 canciones en mp3, o el mismo número de
+                                       fotos de una cámara digital moderna. En video, son pocos minutos como máximo (aunque en video
+                                       el tamaño varia mucho dependiendo de su origen). Pensando bien, como %s, aunque puedas enviar 25MB, la persona
+                                       que lo reciba puede no tener esa capacidad!
     how_large_can_emails_be_answer_2_link_label: Google says
     how_large_can_emails_be_answer_2_link: "http://mail.google.com/support/bin/answer.py?hl=en&answer=8770"
     how_large_can_emails_be_answer_3: |
@@ -449,12 +448,12 @@ es:
 
   unauthorized:
     title: Unauthorized
-    header: You are not authorized to view this page
+    header: No está autorizado a ver esta página
     body: |
-      You have tried to access a page that you don't have permission to view. 
-      Make sure you are logged into the correct Google Account and please try again.
+      Has tratado de acceder una página para la cual no tenés permisos.
+      Asegurate de estar logeado en la cuenta Google correcta y por favor intentá nuevamente.
     body_2: |
-      If feel this is an error, please <a href="%{url}">contact us</a> and we'll help!
+      Si crees que es un error, por favor <a href="%{url}">contactanos</a> y te ayudaremos!
 
   expired:
     title: Out of scans
